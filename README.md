@@ -152,7 +152,7 @@ Job-Market-Analytics/
 │
 ├── 01_web_scraping_job_market.py
 │
-├── task 2_3_4(1).ipynb
+├── 02_data_analysis_and_modeling.ipynb
 │
 ├── raw_job_market_data.csv
 │
@@ -223,11 +223,11 @@ This executes the API-based data collection script and generates the raw CSV dat
 jupyter notebook
 ```
 
-Open the analysis notebook:
+Open:
 
-`task 2_3_4(1).ipynb`
+`02_data_analysis_and_modeling.ipynb`
 
-Run the notebook cells sequentially to perform preprocessing, EDA, feature engineering, and salary prediction.
+Run the notebook cells sequentially to perform data cleaning, preprocessing, feature engineering, exploratory data analysis, and salary prediction.
 
 ### 6. Explore the Dashboard
 
